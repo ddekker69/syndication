@@ -1,0 +1,24 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# renv (keep lockfile + activate.R; ignore built libs)
+renv/library/
+renv/staging/
+renv/sandbox/
+renv/python/
+
+# Local config (don’t commit secrets)
+.Renviron
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

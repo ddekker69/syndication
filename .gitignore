@@ -22,3 +22,6 @@ renv/python/
 .idea/
 .DS_Store
 Thumbs.db
+
+# MS Office lock files
+~$*
